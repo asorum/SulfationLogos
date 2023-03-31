@@ -6,4 +6,4 @@ Data from microarrays should be normalized and formatted according to example da
 
 We have provided an example dataset and the corresponding 'Sulfation Logo' output for reference and testing of code.
 
-Acknowledgements: Thanks to user Arty on Stack Overflow for adding to the public knowledgebase regarding text rendering (https://stackoverflow.com/questions/65609379/is-there-a-way-to-plot-text-with-specified-width-and-height-using-matplotlib).
+Acknowledgements: Thanks to user Arty on Stack Overflow for adding to the public knowledge base regarding text rendering (https://stackoverflow.com/questions/65609379/is-there-a-way-to-plot-text-with-specified-width-and-height-using-matplotlib).
